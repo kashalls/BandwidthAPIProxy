@@ -1,0 +1,18 @@
+{
+  "name": "bandwidth-api-proxy",
+  "version": "2.0.3",
+  "description": "An bandwidth api proxy server for directing messages to certain applications.",
+  "main": "src/index.js",
+  "repository": "https://github.com/Kashalls/BandwidthAPIServer",
+  "author": "Kashalls (Jordan Jones) [jordpjones@gmail.com]",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.12.1"
+  },
+  "dependencies": {
+    "@bandwidth/messaging": "^2.0.3",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "node-fetch": "^2.6.1"
+  }
+}

@@ -10,7 +10,7 @@
     "eslint": "^7.12.1"
   },
   "dependencies": {
-    "@bandwidth/messaging": "^2.0.3",
+    "@bandwidth/messaging": "^4.0.0",
     "express": "^4.17.1",
     "mongodb": "^3.6.3",
     "node-fetch": "^2.6.1"
